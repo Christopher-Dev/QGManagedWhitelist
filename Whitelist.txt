@@ -1,0 +1,79 @@
+//
+//Roles
+Group=reserve:reserve
+Group=PSGHOSTING:changemap,cheat,balance,chat,kick,ban,config,cameraman,debug,canseeadminchat,forceteamchange,reserve
+
+Group=Admin:reserve,ban,kick,canseeadminchat,cameraman,changemap,chat,cheat,debug,forceteamchange,balance,teamchange
+Group=Moderator:reserve,ban,kick,canseeadminchat,cameraman,changemap,chat,
+Group=Reserved:reserve
+
+//Admins
+
+//reserve
+Admin=76561198205055915:reserve //BallisticRimzz
+Admin=76561198039859859:reserve //Pigi38
+Admin=76561198045241814:reserve //D3ATH
+Admin=76561197984081625:reserve //ice
+Admin=76561197998011097:reserve //PonchoVia1
+Admin=76561198847941565:reserve //Chem707
+Admin=76561198040556250:reserve //d0malici0us
+Admin=76561198141656439:reserve //SUCC
+Admin=76561198045546804:reserve //Delphy
+Admin=76561198196009803:reserve //KRASH
+Admin=76561198055469013:reserve //Pyrow
+Admin=76561198416171115:reserve //Volcan
+Admin=76561197969404367:reserve //Wizkeyjack
+Admin=76561198005590210:reserve //The Major
+Admin=76561198071639727:reserve //HitMeUpOnTinder
+Admin=76561199115298055:reserve //DooM
+Admin=76561199059386409:reserve //ReconVaughn
+Admin=76561198359292764:reserve //Wulf Waffle
+Admin=76561198087188486:reserve //DuckShouPeng
+Admin=76561198024123982:reserve //HotPisut
+Admin=76561198010205381:reserve //Jordanvegbike
+Admin=76561198041141576:reserve //Dustin
+Admin=76561198044495805:reserve //Lil Bee Phan
+Admin=76561198273301907:reserve //Yohan
+Admin=76561198352325100:reserve //Na7han
+Admin=76561198130352385:reserve //Birdie
+Admin=76561198062702349:reserve //MaiTrash
+Admin=76561198103165094:reserve //BaySav408
+Admin=76561198144766846:reserve //Foxwad
+Admin=76561198097219086:reserve //Marshwiggle
+Admin=76561198341652413:reserve //SciFi74
+Admin=76561198027061822:reserve //Zach
+Admin=76561198333663310:reserve //PurrrDPrincess
+Admin=76561198954943373:reserve //Jcuad
+Admin=76561199000621876:reserve //idont like caps
+Admin=76561197999156758:reserve //Goon
+Admin=76561198355314894:reserve //Misfit Factual
+Admin=76561198273974790:reserve //SmolPepeDaddy
+Admin=76561198001072267:reserve //Zippo
+Admin=76561198143382611:reserve //AZZA
+Admin=76561198113863909:reserve //Tree
+Admin=76561198855674875:reserve //hwall24
+Admin=76561197974099121:reserve //Optimist Prime
+Admin=76561198046251637:reserve //Syfra
+Admin=76561198331516127:reserve //Tarkus //Friends of SuicideServ New Squire
+Admin=76561198044116505:reserve //beephy
+Admin=76561198127079005:reserve //fuzzyratchet
+Admin=76561198159600566:reserve //hunted4warcrimes
+Admin=76561198010494674:reserve //dyingranger
+Admin=76561197998975978:reserve //Dump Truck
+Admin=76561198258442272:reserve //Mr King
+Admin=76561198212353664:reserve //Ace
+Admin=76561199679769967:reserve //SuicideSwerv
+Admin=76561198012684183:reserve //X
+Admin=76561198104363203:reserve //Swan Friend of Suicide Serve New Squire
+Admin=76561198300972502:reserve //Blue
+Admin=76561198116736013:reserve //Invalidz4Days
+Admin=76561199508980799:reserve //Grey
+Admin=76561198335157804:reserve //Ro
+Admin=76561198117094320:reserve //OrangePaint
+Admin=76561198042719319:reserve //DontShoot978
+Admin=76561198999584965:reserve //Deathwatchs
+Admin=76561198116736013:reserve //Invalidz4Days
+Admin=76561199508980799:reserve //nuker
+Admin=76561198899446142:reserve //Bubbles
+Admin=76561198078642283:reserve //Broadninja00
+//
