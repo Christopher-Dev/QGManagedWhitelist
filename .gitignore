@@ -1,0 +1,34 @@
+# Ignore Visual Studio and Rider settings
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build outputs
+bin/
+obj/
+out/
+
+# Ignore NuGet packages
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+NuGet.Config
+NuGetScratch/
+artifacts/
+
+# Ignore .NET Core dependency cache
+dotnet_tools/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.cache
+*.pdb
+
+# Ignore Resharper / Rider
+*.DotSettings.user
+.ReSharper/
