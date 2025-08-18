@@ -76,4 +76,5 @@ Admin=76561198116736013:reserve //Invalidz4Days
 Admin=76561199508980799:reserve //nuker
 Admin=76561198899446142:reserve //Bubbles
 Admin=76561198078642283:reserve //Broadninja00
+Admin=76561198189948154:reserve //Ranger Rick
 //
