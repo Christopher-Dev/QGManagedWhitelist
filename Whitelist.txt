@@ -79,4 +79,5 @@ Admin=76561198078642283:reserve //Broadninja00
 Admin=76561198189948154:reserve //Ranger Rick
 Admin=76561198453795539:reserve //slymarbo
 Admin=76561198050228815:reserve //tired => Edwin Dude
+Admin=76561198346895992:reserve //EZ => Hwalls Friend and Squire
 //
