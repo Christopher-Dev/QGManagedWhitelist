@@ -1,6 +1,6 @@
 //
 //Roles
-Group=Reserved:reserve
+Group=reserve:reserve
 
 //Admins
 
