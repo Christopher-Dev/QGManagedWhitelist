@@ -5,7 +5,7 @@ Group=PSGHOSTING:changemap,cheat,balance,chat,kick,ban,config,cameraman,debug,ca
 
 Group=Admin:reserve,ban,kick,canseeadminchat,cameraman,changemap,chat,cheat,debug,forceteamchange,balance,teamchange
 Group=Moderator:reserve,ban,kick,canseeadminchat,cameraman,changemap,chat,
-Group=Reserved:reserve
+Group=reserved:reserve
 
 //Admins
 
