@@ -5,11 +5,11 @@ Group=PSGHOSTING:changemap,cheat,balance,chat,kick,ban,config,cameraman,debug,ca
 
 Group=Admin:reserve,ban,kick,canseeadminchat,cameraman,changemap,chat,cheat,debug,forceteamchange,balance,teamchange
 Group=Moderator:reserve,ban,kick,canseeadminchat,cameraman,changemap,chat,
-Group=reserved:reserve
+Group=reserve:reserve
 
 //Admins
 
-//reserve
+//Reserve
 Admin=76561198205055915:reserve //BallisticRimzz
 Admin=76561198039859859:reserve //Pigi38
 Admin=76561198045241814:reserve //D3ATH
@@ -82,4 +82,6 @@ Admin=76561198050228815:reserve //tired => Edwin Dude
 Admin=76561198346895992:reserve //EZ => Hwalls Friend and Squire
 Admin=76561198451331183:reserve //macautos Squire
 Admin=76561199385794947:reserve //Boomer Squire
+Admin=76561198161154181:reserve //Yohan Buddy
+
 //
