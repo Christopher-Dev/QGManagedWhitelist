@@ -1,11 +1,6 @@
 //
 //Roles
 Group=reserve:reserve
-Group=PSGHOSTING:changemap,cheat,balance,chat,kick,ban,config,cameraman,debug,canseeadminchat,forceteamchange,reserve
-
-Group=Admin:reserve,ban,kick,canseeadminchat,cameraman,changemap,chat,cheat,debug,forceteamchange,balance,teamchange
-Group=Moderator:reserve,ban,kick,canseeadminchat,cameraman,changemap,chat,
-Group=reserve:reserve
 
 //Admins
 
