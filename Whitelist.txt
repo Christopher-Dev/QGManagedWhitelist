@@ -68,6 +68,7 @@ Admin=76561198005590210:reserve //The Major
 Admin=76561198050228815:reserve //tired => Edwin Dude
 Admin=76561198113863909:reserve //Tree
 Admin=76561198416171115:reserve //Volcan
+Admin=76561198161154181:reserve //Whiddon
 Admin=76561197960685810:reserve //Wr3tch
 Admin=76561198359292764:reserve //Wulf Waffle
 Admin=76561197969404367:reserve //Wizkeyjack
