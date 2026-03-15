@@ -81,4 +81,5 @@ Admin=76561198001072267:reserve //Zippo
 Admin=76561199000621876:reserve //idont like caps
 Admin=76561197984081625:reserve //ice
 Admin=76561198116736013:reserve //Invalidz4Days
+Admin=76561198253912685:reserve //killzdanoobs
 //
