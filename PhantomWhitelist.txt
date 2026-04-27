@@ -55,7 +55,6 @@ Admin=76561198055469013:reserve //Pyrow
 Admin=76561198333663310:reserve //PurrrDPrincess
 Admin=76561199059386409:reserve //ReconVaughn
 Admin=76561198189948154:reserve //Ranger Rick
-Admin=76561198335157804:reserve //Ro
 Admin=76561198341652413:reserve //SciFi74
 Admin=76561198141656439:reserve //SUCC
 Admin=76561198453795539:reserve //slymarbo
