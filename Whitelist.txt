@@ -83,4 +83,5 @@ Admin=76561198116736013:reserve //Invalidz4Days
 Admin=76561198253912685:reserve //killzdanoobs
 Admin=76561198877381049:reserve //Sick
 Admin=76561198064006190:reserve //FroggyDews
+Admin=76561199123138147:reserve //Rust-Eez
 //
