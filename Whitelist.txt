@@ -85,4 +85,6 @@ Admin=76561198877381049:reserve //Sick
 Admin=76561198064006190:reserve //FroggyDews
 Admin=76561199123138147:reserve //Rust-Eez
 Admin=76561198040595102:reserve //Rheshi
+Admin=76561198435182486:reserve //A Shorty
+Admin=76561198124777164:reserve //Paynus
 //
